@@ -1,4 +1,4 @@
-# Bandwidth Hero Data Compression Service
+# Bandwidth Hero Data Compression Service- self host
 
 **Serverless** port of Bandwidth Hero Data Compression Service 🚀.
 
@@ -16,7 +16,9 @@ It downloads original image and transforms it with [Sharp](https://github.com/lo
 
 > Note: It downloads images on user's behalf (By passing in same headers to the domain with required image), passing cookies and user's IP address through to the origin host.
 
-## Deployment
+## self host options
+
+###  netlify
 
 I can't provide you with my deployment, since I have the free tier, and that has it's limits.
 
@@ -33,3 +35,8 @@ DigitalOcean also provides an
 [easy way](https://www.digitalocean.com/products/one-click-apps/node-js/) to setup a server ready to
 host Node.js apps.
 -->
+
+### ali cloud functions
+
+
+### other cloud functions
